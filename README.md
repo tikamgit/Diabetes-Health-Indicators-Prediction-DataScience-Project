@@ -1,6 +1,8 @@
 # Diabetes-Health-Indicators-Prediction-DataScience-Project
 # Diabetes Risk Prediction Using Health and Lifestyle Indicators
 
+[![author](https://img.shields.io/badge/author-Tikam-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/tikamchand/)
+
 Indraprastha Institute of Information Technology Delhi (IIITD) October 26, 2025
 
 Contents
